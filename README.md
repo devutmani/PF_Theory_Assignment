@@ -1,2 +1,4 @@
-# PF_Theory_Assignment
-PF Theory Assignment of AI-1A
+Name: Dev Kumar 
+Roll Number: 24K-0028
+Section: AI-1A
+Desc: PF theory assignment..
